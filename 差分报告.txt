@@ -1,0 +1,13 @@
+===DEX1===
+D1_DONE
+Files /sdcard/Download/pgpony_orig/smali_classes2/i4/b.smali and /sdcard/Download/pgpony_zh/smali_classes2/i4/b.smali differ
+D2_DONE
+D3_DONE
+===RES===
+Only in /sdcard/Download/pgpony_orig/res/drawable: $ic_launcher_background__0.xml
+Files /sdcard/Download/pgpony_orig/res/drawable/ic_launcher_background.xml and /sdcard/Download/pgpony_zh/res/drawable/ic_launcher_background.xml differ
+Files /sdcard/Download/pgpony_orig/res/values/public.xml and /sdcard/Download/pgpony_zh/res/values/public.xml differ
+Files /sdcard/Download/pgpony_orig/res/values-zh-rCN/strings.xml and /sdcard/Download/pgpony_zh/res/values-zh-rCN/strings.xml differ
+Files /sdcard/Download/pgpony_orig/res/xml/locales_config.xml and /sdcard/Download/pgpony_zh/res/xml/locales_config.xml differ
+RES_DONE
+ALL_DONE
